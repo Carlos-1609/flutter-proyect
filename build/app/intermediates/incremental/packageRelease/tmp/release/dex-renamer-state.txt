@@ -1,0 +1,4 @@
+#Thu Feb 10 23:26:36 CST 2022
+base.0=/Users/caoa/Documents/Carlos/Flutter/prestamosapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
